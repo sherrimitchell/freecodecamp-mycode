@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Fjalla One', sans-serif;
+  }
+  h2, p {
+    font-family: 'Noto Sans', sans-serif;
+  }
+.thin-border {
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: groove;
+  }
+.photo-box {
+    margin: 20px;
+  }
+.footer-pad {
+  padding: 5px
+}
